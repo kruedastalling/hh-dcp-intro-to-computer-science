@@ -172,7 +172,7 @@ Miniconda is a small bootstrap version of Anaconda that includes only conda, Pyt
 
 - Then, run this command to install Miniconda
 
-```bash Miniconda3-py310_23.1.0-1-Linux-x86_64.sh`` and follow the prompts on the installer screens. Answer "yes" to all questions, particularly to whether you wish the installer to initialize Miniconda3 by running conda init.
+```bash Miniconda3-py310_23.1.0-1-Linux-x86_64.sh``` and follow the prompts on the installer screens. Answer "yes" to all questions, particularly to whether you wish the installer to initialize Miniconda3 by running conda init.
 
 - Afterwards, you can remove the installation command
 
